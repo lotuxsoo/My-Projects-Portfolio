@@ -18,12 +18,12 @@ _최종 업데이트: 2024년 9월 22일_
 
 <br>
 
-### ⚙️ 백엔드 프로젝트 목록 ⚙️
+### ⚙️ 개발(BE/FE) 프로젝트 목록 ⚙️
 
 | No  | 프로젝트 이름                                  | 설명                                                   | 주요 기술                                          | 참여<br> 인원     | 링크                                                              | 날짜       |
 | --- | ---------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----------------- | ----------------------------------------------------------------- | ---------- |
 | 1   | **재능기부 프로젝트 리팩토링** | Stream API와 Lambda를 이용해서 기존 Java 코드 리팩토링 | Java 17, Stream API, Lambda 표현식                 | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/fisa3_Java_Refactoring) | 2024-07-22 |
-| 2   | **NeoMarket - 경매/중고거래 플랫폼**           | 웹사이트 플랫폼 개발 및 ELK 스택 활용 프로젝트         | Spring Boot, Spring Data JPA, ELK, MySQL, React.js | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Neo-Market/BE-NeoMarket)         | 2024-08-02 |
+| 2   | **NeoMarket - 경매/중고거래 플랫폼**           | 웹사이트 플랫폼 개발 및 ELK 스택 활용 프로젝트         | Spring Boot, Spring Data JPA, ELK, MySQL, React.js | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Neo-Market/BE-NeoMarket) [GitHub 링크](https://github.com/Neo-Market/FE-NeoMarket)         | 2024-08-02 |
 
 ---
 
