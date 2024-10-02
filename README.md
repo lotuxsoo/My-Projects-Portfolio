@@ -1,6 +1,6 @@
 # 🌱 My-Projects-Portfolio
 
-_최종 업데이트: 2024년 9월 25일_
+_최종 업데이트: 2024년 10월 2일_
 
 <br>
 
@@ -24,14 +24,15 @@ _최종 업데이트: 2024년 9월 25일_
 
 ### **🔎 인프라 프로젝트 목록 🔍**
 
-| No  | 프로젝트 이름                  | 한 줄 소개                                                       | 사용 기술                                                    | 참여<br> 인원         | 링크                                                            | 날짜       |
-| --- | ------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------ | --------------------- | --------------------------------------------------------------- | ---------- |
-| 1   | **ELK 로그 시스템 구축**       | Docker-Compose와 쉘 스트립트로 ELK 스택 설치 및 로그 시스템 구축 | ELK(ElasticSearch, Logstash, Kibana, Filebeat), Linux, Shell | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/FISA3-ELK-Pipeline)   | 2024-07-19 |
-| 2   | **HA Deep Dive**               | VMware vSphere HA의 동작 방식과 핵심 설정에 대한 이해 및 실습    | VMware Hands-on Labs, VMware vSphere HA                      | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/FISA3-vSphere-HA)     | 2024-09-03 |
-| 3   | **PAM 비밀번호 정책 규제**     | Linux 환경에서 보안 강화를 위한 실습                             | PAM, Linux, VirtualBox                                       | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Linux-PAM)            | 2024-09-19 |
-| 4   | **TIL 자동화 프로젝트**        | Crontab을 이용한 TIL 자동화 관리 시스템                          | Crontab, Linux, Bash Script                                  | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Crontab-TIL)    | 2024-09-23 |
-| 5   | **Docker 이미지 방법론**       | Java 애플리케이션에서 Docker 이미지 빌드, 실행, 최적화 방법론    | Docker, Linux, Bash Script                                   | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Docker-Guide)   | 2024-09-24 |
-| 6   | **Trivy를 활용한 보안 테스트** | Trivy를 통한 보안 취약점 탐지와 결과 분석 실습                   | Docker, Trivy, Linux, Bash Script                            | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Trivy-Analysis) | 2024-09-25 |
+| No  | 프로젝트 이름                                     | 한 줄 소개                                                       | 사용 기술                                                    | 참여<br> 인원         | 링크                                                                            | 날짜       |
+| --- | ------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------- | ---------- |
+| 1   | **ELK 로그 시스템 구축**                          | Docker-Compose와 쉘 스트립트로 ELK 스택 설치 및 로그 시스템 구축 | ELK(ElasticSearch, Logstash, Kibana, Filebeat), Linux, Shell | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/FISA3-ELK-Pipeline)                   | 2024-07-19 |
+| 2   | **HA Deep Dive**                                  | VMware vSphere HA의 동작 방식과 핵심 설정에 대한 이해 및 실습    | VMware Hands-on Labs, VMware vSphere HA                      | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/FISA3-vSphere-HA)                     | 2024-09-03 |
+| 3   | **PAM 비밀번호 정책 규제**                        | Linux 환경에서 보안 강화를 위한 실습                             | PAM, Linux, VirtualBox                                       | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Linux-PAM)       | 2024-09-19 |
+| 4   | **TIL 자동화 프로젝트**                           | Crontab을 이용한 TIL 자동화 관리 시스템                          | Crontab, Linux, Bash Script                                  | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Crontab-TIL)     | 2024-09-23 |
+| 5   | **Docker 이미지 방법론**                          | Java 애플리케이션에서 Docker 이미지 빌드, 실행, 최적화 방법론    | Docker, Linux, Bash Script                                   | 개인<br> 프로젝트     | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Docker-Guide)    | 2024-09-24 |
+| 6   | **Trivy를 활용한 보안 테스트**                    | Trivy를 통한 보안 취약점 탐지와 결과 분석 실습                   | Docker, Trivy, Linux, Bash Script                            | 팀<br> 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Trivy-Analysis)  | 2024-09-25 |
+| 6   | **Spring Boot 애플리케이션 Kubernetes 배포 실습** | Kubernetes에서 다중 인스턴스 환경으로 배포 실습                  | Kubernetes, Docker, Linux, Spring Boot                       | 개인<br> 프로젝트     | [GitHub 링크](hhttps://github.com/lotuxsoo/Woori-FISA/tree/main/K8S-Deployment) | 2024-10-02 |
 
 ---
 
